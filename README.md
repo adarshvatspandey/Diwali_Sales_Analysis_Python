@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes Diwali sales data to uncover customer purchasing behavior, sales trends, and business insights using Python.
+
 ![image](https://github.com/adarshvatspandey/Diwali_Sales_Analysis_Python/blob/dc5118102f1fed8a3feb287459b29ca9c7d28879/Diwali%20pic.png)
 
 ## Objectives
