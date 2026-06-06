@@ -240,6 +240,7 @@ df.groupby(['Gender','Marital_Status'])['Amount'].sum().sort_values(ascending=Fa
 ---
 
 # Key Business Insights
+![image](https://github.com/adarshvatspandey/Diwali_Sales_Analysis_Python/blob/a55bcaed8135a23e38bf6afe9da424552c28b906/Sales%20Analysis.png)
 
 * Female customers are the primary contributors to revenue.
 * Married women aged 26–35 are the most valuable customer segment.
