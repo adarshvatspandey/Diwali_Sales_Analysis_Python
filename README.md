@@ -15,9 +15,6 @@ This project analyzes Diwali sales data to uncover customer purchasing behavior,
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ## Dataset Information
